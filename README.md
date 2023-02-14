@@ -22,9 +22,8 @@ résistance = 220 ohm
 ![App Screenshot](https://media.discordapp.net/attachments/768978990349680720/1074790911705362555/tp.jpg?width=868&height=676)
 
 
-
-
-**Résultat sur écran lcd :**
+**Résultat :**
+![App Screenshot](https://media.discordapp.net/attachments/768978990349680720/1074974196804898836/cablage_realise.jpg)
 
 ![App Screenshot](https://media.discordapp.net/attachments/768978990349680720/1074790911239798804/resultat.jpg?width=1440&height=643)
 
